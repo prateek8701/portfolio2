@@ -135,7 +135,7 @@ export default function Contact() {
 
           <div style={{ display: 'flex', gap: '16px', marginTop: '10px' }}>
             <a
-              href="https://linkedin.com/in/sandeep-choudhary"
+              href=" https://www.linkedin.com/in/sandeep-choudhary-0361632a4/"
               target="_blank"
               rel="noopener noreferrer"
               style={{
