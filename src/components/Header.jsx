@@ -124,7 +124,7 @@ export default function Header({ activeSection }) {
             <a href="https://github.com/prateek8701" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--color-text-muted)' }} aria-label="GitHub">
               <Github size={20} />
             </a>
-            <a href="https://linkedin.com/in/sandeep-choudhary" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--color-text-muted)' }} aria-label="LinkedIn">
+            <a href=" https://www.linkedin.com/in/sandeep-choudhary-0361632a4/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--color-text-muted)' }} aria-label="LinkedIn">
               <Linkedin size={20} />
             </a>
             <a href="mailto:sandeepchoudhary76100@gmail.com" style={{ color: 'var(--color-text-muted)' }} aria-label="Email">
